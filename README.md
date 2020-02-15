@@ -11,13 +11,13 @@
 * instale todas as dependências do projeto com -> `yarn install`
 * inicie o servidor de desenvolvimento com -> `yarn start`
 
-## Browser Support
+## Browser Suportados
 
 No momento, pretendemos oficialmente oferecer suporte às duas últimas versões dos seguintes navegadores:
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-## Author
+## Autor
 
 <table>
   <tr>
