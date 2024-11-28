@@ -22,7 +22,8 @@
     "test": "react-scripts test --env=jsdom",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "react-scripts lint"
   },
   "devDependencies": {
     "gh-pages": "^2.0.0"
